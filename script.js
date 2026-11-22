@@ -295,7 +295,7 @@ const TOTAL_SCENES = 8;
     "The comfort of our late-night chats & quiet moments 🌙",
     "How you remember tiny details I forgot I even said 🌸",
     "Your soft heart & how effortlessly you make me smile 💖",
-    "Because in a world full of noise, you are my home, Hayati 🌹"
+    "Because in a world full of noise, you are my home, Bhonduu 🌹"
   ];
   const balloonAimAngles = [-36, -18, 0, 18, 36];
   let currentBalloonIdx = 0;
